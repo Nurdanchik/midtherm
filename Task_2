@@ -1,0 +1,1 @@
+It works like git reset&git checkout but leaves steps of any commit instead of just deletting.
